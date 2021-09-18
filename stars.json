@@ -1,13 +1,13 @@
 [
   {
     "full_name": "tapaswenipathak/Open-Source-Programs",
-    "stargazers_count": 2651,
+    "stargazers_count": 2656,
     "open_issues_count": 35,
-    "forks_count": 659
+    "forks_count": 660
   },
   {
     "full_name": "bzg/opensource-challenges",
-    "stargazers_count": 69,
+    "stargazers_count": 70,
     "open_issues_count": 0,
     "forks_count": 9
   },
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "numpy/numpy",
-    "stargazers_count": 18213,
-    "open_issues_count": 2368,
-    "forks_count": 5898
+    "stargazers_count": 18234,
+    "open_issues_count": 2375,
+    "forks_count": 5906
   },
   {
     "full_name": "orbit-love/orbit-model",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 20968,
-    "open_issues_count": 16,
-    "forks_count": 4382
+    "stargazers_count": 22047,
+    "open_issues_count": 18,
+    "forks_count": 4457
   },
   {
     "full_name": "moov-io/terms-dictionary",
@@ -115,31 +115,31 @@
   },
   {
     "full_name": "kdn251/interviews",
-    "stargazers_count": 53892,
+    "stargazers_count": 53928,
     "open_issues_count": 96,
-    "forks_count": 11450
+    "forks_count": 11457
   },
   {
     "full_name": "ajv-validator/ajv",
-    "stargazers_count": 9873,
-    "open_issues_count": 119,
+    "stargazers_count": 9893,
+    "open_issues_count": 120,
     "forks_count": 765
   },
   {
     "full_name": "bitcoin/bitcoin",
-    "stargazers_count": 56995,
-    "open_issues_count": 1029,
-    "forks_count": 29895
+    "stargazers_count": 57060,
+    "open_issues_count": 1024,
+    "forks_count": 29921
   },
   {
     "full_name": "matplotlib/matplotlib",
-    "stargazers_count": 14204,
-    "open_issues_count": 1664,
-    "forks_count": 6013
+    "stargazers_count": 14220,
+    "open_issues_count": 1665,
+    "forks_count": 6022
   },
   {
     "full_name": "notrab/awesome-headless-commerce",
-    "stargazers_count": 47,
+    "stargazers_count": 48,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -153,7 +153,7 @@
     "full_name": "oscafrica/oscafrica.org-v2",
     "stargazers_count": 5,
     "open_issues_count": 7,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "github/maintainerweek",
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "google/oss-vulnerability-guide",
-    "stargazers_count": 85,
+    "stargazers_count": 86,
     "open_issues_count": 0,
     "forks_count": 16
   },
