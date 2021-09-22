@@ -1,9 +1,9 @@
 [
   {
     "full_name": "tapaswenipathak/Open-Source-Programs",
-    "stargazers_count": 2656,
+    "stargazers_count": 2660,
     "open_issues_count": 35,
-    "forks_count": 660
+    "forks_count": 661
   },
   {
     "full_name": "bzg/opensource-challenges",
@@ -79,13 +79,13 @@
   },
   {
     "full_name": "numpy/numpy",
-    "stargazers_count": 18234,
-    "open_issues_count": 2375,
-    "forks_count": 5906
+    "stargazers_count": 18258,
+    "open_issues_count": 2376,
+    "forks_count": 5928
   },
   {
     "full_name": "orbit-love/orbit-model",
-    "stargazers_count": 674,
+    "stargazers_count": 676,
     "open_issues_count": 4,
     "forks_count": 50
   },
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 22047,
-    "open_issues_count": 18,
-    "forks_count": 4457
+    "stargazers_count": 22215,
+    "open_issues_count": 16,
+    "forks_count": 4518
   },
   {
     "full_name": "moov-io/terms-dictionary",
@@ -115,27 +115,27 @@
   },
   {
     "full_name": "kdn251/interviews",
-    "stargazers_count": 53928,
+    "stargazers_count": 53956,
     "open_issues_count": 96,
-    "forks_count": 11457
+    "forks_count": 11461
   },
   {
     "full_name": "ajv-validator/ajv",
-    "stargazers_count": 9893,
-    "open_issues_count": 120,
-    "forks_count": 765
+    "stargazers_count": 9907,
+    "open_issues_count": 124,
+    "forks_count": 766
   },
   {
     "full_name": "bitcoin/bitcoin",
-    "stargazers_count": 57060,
-    "open_issues_count": 1024,
-    "forks_count": 29921
+    "stargazers_count": 57128,
+    "open_issues_count": 1021,
+    "forks_count": 29963
   },
   {
     "full_name": "matplotlib/matplotlib",
-    "stargazers_count": 14220,
-    "open_issues_count": 1665,
-    "forks_count": 6022
+    "stargazers_count": 14237,
+    "open_issues_count": 1664,
+    "forks_count": 6027
   },
   {
     "full_name": "notrab/awesome-headless-commerce",
@@ -165,11 +165,11 @@
     "full_name": "google/oss-vulnerability-guide",
     "stargazers_count": 86,
     "open_issues_count": 0,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "netlify/explorers",
-    "stargazers_count": 223,
+    "stargazers_count": 224,
     "open_issues_count": 62,
     "forks_count": 29
   },
