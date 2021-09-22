@@ -1,5 +1,71 @@
 [
   {
+    "full_name": "opencast/opencast",
+    "stargazers_count": 211,
+    "open_issues_count": 175,
+    "forks_count": 177
+  },
+  {
+    "full_name": "tenpy/hdf5_io",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "tensorflow/tfjs-models",
+    "stargazers_count": 9811,
+    "open_issues_count": 78,
+    "forks_count": 3049
+  },
+  {
+    "full_name": "keras-team/keras-io",
+    "stargazers_count": 1068,
+    "open_issues_count": 152,
+    "forks_count": 995
+  },
+  {
+    "full_name": "BolajiAyodeji/credit_card_fraud_detection",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "leggetter/devrelometer",
+    "stargazers_count": 35,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "scikit-learn/scikit-learn",
+    "stargazers_count": 47264,
+    "open_issues_count": 2386,
+    "forks_count": 21964
+  },
+  {
+    "full_name": "BolajiAyodeji/movie_reviews_sentiment_analysis",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "antonioru/beautiful-react-hooks",
+    "stargazers_count": 5038,
+    "open_issues_count": 3,
+    "forks_count": 306
+  },
+  {
+    "full_name": "commercelayer/commercelayer-sdk",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "abdulsamodazeez/Fake-news-detection",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "tapaswenipathak/Open-Source-Programs",
     "stargazers_count": 2660,
     "open_issues_count": 35,
@@ -79,7 +145,7 @@
   },
   {
     "full_name": "numpy/numpy",
-    "stargazers_count": 18258,
+    "stargazers_count": 18259,
     "open_issues_count": 2376,
     "forks_count": 5928
   },
@@ -97,9 +163,9 @@
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 22215,
+    "stargazers_count": 22217,
     "open_issues_count": 16,
-    "forks_count": 4518
+    "forks_count": 4520
   },
   {
     "full_name": "moov-io/terms-dictionary",
@@ -112,71 +178,5 @@
     "stargazers_count": 108,
     "open_issues_count": 0,
     "forks_count": 10
-  },
-  {
-    "full_name": "kdn251/interviews",
-    "stargazers_count": 53956,
-    "open_issues_count": 96,
-    "forks_count": 11461
-  },
-  {
-    "full_name": "ajv-validator/ajv",
-    "stargazers_count": 9907,
-    "open_issues_count": 124,
-    "forks_count": 766
-  },
-  {
-    "full_name": "bitcoin/bitcoin",
-    "stargazers_count": 57128,
-    "open_issues_count": 1021,
-    "forks_count": 29963
-  },
-  {
-    "full_name": "matplotlib/matplotlib",
-    "stargazers_count": 14237,
-    "open_issues_count": 1664,
-    "forks_count": 6027
-  },
-  {
-    "full_name": "notrab/awesome-headless-commerce",
-    "stargazers_count": 48,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "mxsasha/lessobviouschecklist",
-    "stargazers_count": 377,
-    "open_issues_count": 3,
-    "forks_count": 22
-  },
-  {
-    "full_name": "oscafrica/oscafrica.org-v2",
-    "stargazers_count": 5,
-    "open_issues_count": 7,
-    "forks_count": 1
-  },
-  {
-    "full_name": "github/maintainerweek",
-    "stargazers_count": 141,
-    "open_issues_count": 3,
-    "forks_count": 11
-  },
-  {
-    "full_name": "google/oss-vulnerability-guide",
-    "stargazers_count": 86,
-    "open_issues_count": 0,
-    "forks_count": 17
-  },
-  {
-    "full_name": "netlify/explorers",
-    "stargazers_count": 224,
-    "open_issues_count": 62,
-    "forks_count": 29
-  },
-  {
-    "full_name": "yomaokobiah/Decluttering_Email",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
