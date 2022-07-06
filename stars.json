@@ -2,7 +2,7 @@
   {
     "full_name": "opencast/opencast",
     "stargazers_count": 282,
-    "open_issues_count": 189,
+    "open_issues_count": 175,
     "forks_count": 190
   },
   {
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "tensorflow/tfjs-models",
-    "stargazers_count": 11297,
+    "stargazers_count": 11312,
     "open_issues_count": 81,
-    "forks_count": 3573
+    "forks_count": 3579
   },
   {
     "full_name": "keras-team/keras-io",
-    "stargazers_count": 1663,
-    "open_issues_count": 268,
-    "forks_count": 1459
+    "stargazers_count": 1677,
+    "open_issues_count": 275,
+    "forks_count": 1464
   },
   {
     "full_name": "BolajiAyodeji/credit_card_fraud_detection",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "scikit-learn/scikit-learn",
-    "stargazers_count": 50599,
-    "open_issues_count": 2223,
-    "forks_count": 23177
+    "stargazers_count": 50629,
+    "open_issues_count": 2239,
+    "forks_count": 23188
   },
   {
     "full_name": "BolajiAyodeji/movie_reviews_sentiment_analysis",
@@ -49,14 +49,14 @@
   },
   {
     "full_name": "antonioru/beautiful-react-hooks",
-    "stargazers_count": 5650,
-    "open_issues_count": 8,
+    "stargazers_count": 5661,
+    "open_issues_count": 11,
     "forks_count": 357
   },
   {
     "full_name": "commercelayer/commercelayer-sdk",
     "stargazers_count": 12,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 3
   },
   {
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "tapaswenipathak/Open-Source-Programs",
-    "stargazers_count": 2888,
+    "stargazers_count": 2890,
     "open_issues_count": 24,
     "forks_count": 696
   },
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "numpy/numpy",
-    "stargazers_count": 20828,
-    "open_issues_count": 2198,
-    "forks_count": 7066
+    "stargazers_count": 20853,
+    "open_issues_count": 2205,
+    "forks_count": 7070
   },
   {
     "full_name": "orbit-love/orbit-model",
-    "stargazers_count": 888,
+    "stargazers_count": 890,
     "open_issues_count": 6,
-    "forks_count": 62
+    "forks_count": 63
   },
   {
     "full_name": "orbit-love/github-actions-templates",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 38855,
-    "open_issues_count": 4,
-    "forks_count": 7665
+    "stargazers_count": 38912,
+    "open_issues_count": 5,
+    "forks_count": 7681
   },
   {
     "full_name": "moov-io/terms-dictionary",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "dmitryvinn/awesome-dev-advocacy",
-    "stargazers_count": 168,
+    "stargazers_count": 169,
     "open_issues_count": 0,
     "forks_count": 13
   }
